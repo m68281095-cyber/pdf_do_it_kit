@@ -1,0 +1,27 @@
+{
+  "page": null,
+  "items": [
+    {
+      "kind": "mcq",
+      "syllabus_label": "Old Syllabus",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "15",
+      "question": "পুরাতন সিলেবাসভুক্ত বিশেষ ইঞ্জিন সংক্রান্ত প্রশ্ন...",
+      "option_a": "ক",
+      "option_b": "খ",
+      "option_c": "গ",
+      "option_d": "ঘ",
+      "correct_answer": "A",
+      "explanation": "পুরাতন সিলেবাসের প্রশ্ন হওয়ায় এটি মূল বিষয় ফাইলে না রেখে _old_syllabus.json-এ সংরক্ষিত হলো।",
+      "topic_id": 201,
+      "topic_name": "ভৌতজগৎ ও পরিমাপ",
+      "subtopic_hint": "পুরাতন সিলেবাসের টপিক",
+      "source": {
+        "category": "engineering",
+        "university": "BUET",
+        "year": 2015
+      }
+    }
+  ]
+}

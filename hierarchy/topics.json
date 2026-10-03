@@ -1,0 +1,932 @@
+[
+  {
+    "id": 101,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 1,
+    "name_bn": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "name_en": "Matrices & Determinants",
+    "sort_order": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 102,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 2,
+    "name_bn": "ভেক্টর",
+    "name_en": "Vectors",
+    "sort_order": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 3,
+    "name_bn": "সরলরেখা",
+    "name_en": "Straight Lines",
+    "sort_order": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": 104,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 4,
+    "name_bn": "বৃত্ত",
+    "name_en": "Circles",
+    "sort_order": 4,
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 5,
+    "name_bn": "বিন্যাস ও সমাবেশ",
+    "name_en": "Permutation & Combination",
+    "sort_order": 5,
+    "difficulty": "hard"
+  },
+  {
+    "id": 106,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 6,
+    "name_bn": "ত্রিকোণমিতিক অনুপাত",
+    "name_en": "Trigonometric Ratios",
+    "sort_order": 6,
+    "difficulty": "easy"
+  },
+  {
+    "id": 107,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 7,
+    "name_bn": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "name_en": "Trigonometric Ratios of Associated Angles",
+    "sort_order": 7,
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 8,
+    "name_bn": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "name_en": "Functions & Graphs",
+    "sort_order": 8,
+    "difficulty": "medium"
+  },
+  {
+    "id": 109,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 9,
+    "name_bn": "অন্তরীকরণ",
+    "name_en": "Differentiation",
+    "sort_order": 9,
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "paper_id": 1,
+    "subject_id": 1,
+    "chapter_number": 10,
+    "name_bn": "যোগজীকরণ",
+    "name_en": "Integration",
+    "sort_order": 10,
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 1,
+    "name_bn": "বাস্তব সংখ্যা ও অসমতা",
+    "name_en": "Real Numbers & Inequalities",
+    "sort_order": 11,
+    "difficulty": "easy"
+  },
+  {
+    "id": 112,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 2,
+    "name_bn": "যোগাশ্রয়ী প্রোগ্রাম",
+    "name_en": "Linear Programming",
+    "sort_order": 12,
+    "difficulty": "easy"
+  },
+  {
+    "id": 113,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 3,
+    "name_bn": "জটিল সংখ্যা",
+    "name_en": "Complex Numbers",
+    "sort_order": 13,
+    "difficulty": "medium"
+  },
+  {
+    "id": 114,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 4,
+    "name_bn": "বহুপদী ও বহুপদী সমীকরণ",
+    "name_en": "Polynomials & Equations",
+    "sort_order": 14,
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 5,
+    "name_bn": "দ্বিপদী বিস্তৃতি",
+    "name_en": "Binomial Expansion",
+    "sort_order": 15,
+    "difficulty": "medium"
+  },
+  {
+    "id": 116,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 6,
+    "name_bn": "কনিক",
+    "name_en": "Conics",
+    "sort_order": 16,
+    "difficulty": "hard"
+  },
+  {
+    "id": 117,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 7,
+    "name_bn": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ",
+    "name_en": "Inverse Trigonometric Functions",
+    "sort_order": 17,
+    "difficulty": "medium"
+  },
+  {
+    "id": 118,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 8,
+    "name_bn": "স্থিতিবিদ্যা",
+    "name_en": "Statics",
+    "sort_order": 18,
+    "difficulty": "hard"
+  },
+  {
+    "id": 119,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 9,
+    "name_bn": "সমতলে বস্তুকণার গতি",
+    "name_en": "Particle Dynamics",
+    "sort_order": 19,
+    "difficulty": "hard"
+  },
+  {
+    "id": 120,
+    "paper_id": 2,
+    "subject_id": 1,
+    "chapter_number": 10,
+    "name_bn": "বিস্তারের পরিমাপ ও সম্ভাবনা",
+    "name_en": "Measures of Dispersion & Probability",
+    "sort_order": 20,
+    "difficulty": "easy"
+  },
+  {
+    "id": 201,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 1,
+    "name_bn": "ভৌতজগৎ ও পরিমাপ",
+    "name_en": "Physical World & Measurement",
+    "sort_order": 21,
+    "difficulty": "easy"
+  },
+  {
+    "id": 202,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 2,
+    "name_bn": "ভেক্টর",
+    "name_en": "Vector",
+    "sort_order": 22,
+    "difficulty": "medium"
+  },
+  {
+    "id": 203,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 3,
+    "name_bn": "গতিবিদ্যা",
+    "name_en": "Dynamics",
+    "sort_order": 23,
+    "difficulty": "medium"
+  },
+  {
+    "id": 204,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 4,
+    "name_bn": "নিউটনীয় বলবিদ্যা",
+    "name_en": "Newtonian Mechanics",
+    "sort_order": 24,
+    "difficulty": "hard"
+  },
+  {
+    "id": 205,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 5,
+    "name_bn": "কাজ, ক্ষমতা ও শক্তি",
+    "name_en": "Work, Energy & Power",
+    "sort_order": 25,
+    "difficulty": "medium"
+  },
+  {
+    "id": 206,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 6,
+    "name_bn": "মহাকর্ষ ও অভিকর্ষ",
+    "name_en": "Gravitation & Gravity",
+    "sort_order": 26,
+    "difficulty": "medium"
+  },
+  {
+    "id": 207,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 7,
+    "name_bn": "পদার্থের গাঠনিক ধর্ম",
+    "name_en": "Structural Properties of Matter",
+    "sort_order": 27,
+    "difficulty": "medium"
+  },
+  {
+    "id": 208,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 8,
+    "name_bn": "পর্যাবৃত্ত গতি",
+    "name_en": "Periodic Motion",
+    "sort_order": 28,
+    "difficulty": "medium"
+  },
+  {
+    "id": 209,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 9,
+    "name_bn": "তরঙ্গ",
+    "name_en": "Waves",
+    "sort_order": 29,
+    "difficulty": "medium"
+  },
+  {
+    "id": 210,
+    "paper_id": 3,
+    "subject_id": 2,
+    "chapter_number": 10,
+    "name_bn": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+    "name_en": "Ideal Gas & Kinetic Theory",
+    "sort_order": 30,
+    "difficulty": "medium"
+  },
+  {
+    "id": 211,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 1,
+    "name_bn": "তাপগতিবিদ্যা",
+    "name_en": "Thermodynamics",
+    "sort_order": 31,
+    "difficulty": "hard"
+  },
+  {
+    "id": 212,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 2,
+    "name_bn": "স্থির তড়িৎ",
+    "name_en": "Static Electricity",
+    "sort_order": 32,
+    "difficulty": "hard"
+  },
+  {
+    "id": 213,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 3,
+    "name_bn": "চল তড়িৎ",
+    "name_en": "Current Electricity",
+    "sort_order": 33,
+    "difficulty": "hard"
+  },
+  {
+    "id": 214,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 4,
+    "name_bn": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চৌম্বকত্ব",
+    "name_en": "Magnetic Effect of Current",
+    "sort_order": 34,
+    "difficulty": "hard"
+  },
+  {
+    "id": 215,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 5,
+    "name_bn": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+    "name_en": "Electromagnetic Induction",
+    "sort_order": 35,
+    "difficulty": "medium"
+  },
+  {
+    "id": 216,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 6,
+    "name_bn": "জ্যামিতিক আলোকবিজ্ঞান",
+    "name_en": "Geometrical Optics",
+    "sort_order": 36,
+    "difficulty": "medium"
+  },
+  {
+    "id": 217,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 7,
+    "name_bn": "ভৌত আলোকবিজ্ঞান",
+    "name_en": "Physical Optics",
+    "sort_order": 37,
+    "difficulty": "medium"
+  },
+  {
+    "id": 218,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 8,
+    "name_bn": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+    "name_en": "Modern Physics",
+    "sort_order": 38,
+    "difficulty": "hard"
+  },
+  {
+    "id": 219,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 9,
+    "name_bn": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+    "name_en": "Atomic Model & Nuclear Physics",
+    "sort_order": 39,
+    "difficulty": "medium"
+  },
+  {
+    "id": 220,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 10,
+    "name_bn": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+    "name_en": "Semiconductor & Electronics",
+    "sort_order": 40,
+    "difficulty": "medium"
+  },
+  {
+    "id": 221,
+    "paper_id": 4,
+    "subject_id": 2,
+    "chapter_number": 11,
+    "name_bn": "জ্যোতির্বিজ্ঞান",
+    "name_en": "Astronomy",
+    "sort_order": 41,
+    "difficulty": "easy"
+  },
+  {
+    "id": 301,
+    "paper_id": 5,
+    "subject_id": 3,
+    "chapter_number": 1,
+    "name_bn": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+    "name_en": "Safe Use of Laboratory",
+    "sort_order": 42,
+    "difficulty": "easy"
+  },
+  {
+    "id": 302,
+    "paper_id": 5,
+    "subject_id": 3,
+    "chapter_number": 2,
+    "name_bn": "গুণগত রসায়ন",
+    "name_en": "Qualitative Chemistry",
+    "sort_order": 43,
+    "difficulty": "medium"
+  },
+  {
+    "id": 303,
+    "paper_id": 5,
+    "subject_id": 3,
+    "chapter_number": 3,
+    "name_bn": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+    "name_en": "Periodic Properties & Chemical Bonding",
+    "sort_order": 44,
+    "difficulty": "medium"
+  },
+  {
+    "id": 304,
+    "paper_id": 5,
+    "subject_id": 3,
+    "chapter_number": 4,
+    "name_bn": "রাসায়নিক পরিবর্তন",
+    "name_en": "Chemical Changes",
+    "sort_order": 45,
+    "difficulty": "hard"
+  },
+  {
+    "id": 305,
+    "paper_id": 5,
+    "subject_id": 3,
+    "chapter_number": 5,
+    "name_bn": "কর্মমুখী রসায়ন",
+    "name_en": "Practical Chemistry",
+    "sort_order": 46,
+    "difficulty": "easy"
+  },
+  {
+    "id": 311,
+    "paper_id": 6,
+    "subject_id": 3,
+    "chapter_number": 1,
+    "name_bn": "পরিবেশ রসায়ন",
+    "name_en": "Environmental Chemistry",
+    "sort_order": 47,
+    "difficulty": "medium"
+  },
+  {
+    "id": 312,
+    "paper_id": 6,
+    "subject_id": 3,
+    "chapter_number": 2,
+    "name_bn": "জৈব রসায়ন",
+    "name_en": "Organic Chemistry",
+    "sort_order": 48,
+    "difficulty": "hard"
+  },
+  {
+    "id": 313,
+    "paper_id": 6,
+    "subject_id": 3,
+    "chapter_number": 3,
+    "name_bn": "পরিমাণগত রসায়ন",
+    "name_en": "Quantitative Chemistry",
+    "sort_order": 49,
+    "difficulty": "hard"
+  },
+  {
+    "id": 314,
+    "paper_id": 6,
+    "subject_id": 3,
+    "chapter_number": 4,
+    "name_bn": "তড়িৎ রসায়ন",
+    "name_en": "Electrochemistry",
+    "sort_order": 50,
+    "difficulty": "medium"
+  },
+  {
+    "id": 315,
+    "paper_id": 6,
+    "subject_id": 3,
+    "chapter_number": 5,
+    "name_bn": "অর্থনৈতিক রসায়ন",
+    "name_en": "Economic Chemistry",
+    "sort_order": 51,
+    "difficulty": "easy"
+  },
+  {
+    "id": 401,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 1,
+    "name_bn": "কোষ ও এর গঠন",
+    "name_en": "Cell & Its Structure",
+    "sort_order": 52,
+    "difficulty": "medium"
+  },
+  {
+    "id": 402,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 2,
+    "name_bn": "কোষ বিভাজন",
+    "name_en": "Cell Division",
+    "sort_order": 53,
+    "difficulty": "easy"
+  },
+  {
+    "id": 403,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 3,
+    "name_bn": "কোষ রসায়ন",
+    "name_en": "Cell Chemistry",
+    "sort_order": 54,
+    "difficulty": "medium"
+  },
+  {
+    "id": 404,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 4,
+    "name_bn": "অণুজীব",
+    "name_en": "Microorganisms",
+    "sort_order": 55,
+    "difficulty": "medium"
+  },
+  {
+    "id": 405,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 5,
+    "name_bn": "শৈবাল ও ছত্রাক",
+    "name_en": "Algae & Fungi",
+    "sort_order": 56,
+    "difficulty": "easy"
+  },
+  {
+    "id": 406,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 6,
+    "name_bn": "ব্রায়োফাইটা ও টেরিডোফাইটা",
+    "name_en": "Bryophyta & Pteridophyta",
+    "sort_order": 57,
+    "difficulty": "easy"
+  },
+  {
+    "id": 407,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 7,
+    "name_bn": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ",
+    "name_en": "Gymnosperms & Angiosperms",
+    "sort_order": 58,
+    "difficulty": "medium"
+  },
+  {
+    "id": 408,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 8,
+    "name_bn": "টিস্যু ও টিস্যুতন্ত্র",
+    "name_en": "Tissue & Tissue System",
+    "sort_order": 59,
+    "difficulty": "medium"
+  },
+  {
+    "id": 409,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 9,
+    "name_bn": "উদ্ভিদ শারীরতত্ত্ব",
+    "name_en": "Plant Physiology",
+    "sort_order": 60,
+    "difficulty": "hard"
+  },
+  {
+    "id": 410,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 10,
+    "name_bn": "উদ্ভিদ প্রজনন",
+    "name_en": "Plant Reproduction",
+    "sort_order": 61,
+    "difficulty": "medium"
+  },
+  {
+    "id": 411,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 11,
+    "name_bn": "জীব প্রযুক্তি",
+    "name_en": "Biotechnology",
+    "sort_order": 62,
+    "difficulty": "medium"
+  },
+  {
+    "id": 412,
+    "paper_id": 7,
+    "subject_id": 4,
+    "chapter_number": 12,
+    "name_bn": "জীবের পরিবেশ, বিস্তার ও সংরক্ষণ",
+    "name_en": "Organism Environment & Conservation",
+    "sort_order": 63,
+    "difficulty": "easy"
+  },
+  {
+    "id": 413,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 1,
+    "name_bn": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+    "name_en": "Animal Diversity & Classification",
+    "sort_order": 64,
+    "difficulty": "medium"
+  },
+  {
+    "id": 414,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 2,
+    "name_bn": "প্রাণীর পরিচিতি (হাইড্রা, ঘাসফড়িং, রুই মাছ)",
+    "name_en": "Animal Types (Hydra, Grasshopper, Rohu)",
+    "sort_order": 65,
+    "difficulty": "medium"
+  },
+  {
+    "id": 415,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 3,
+    "name_bn": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ",
+    "name_en": "Digestion & Absorption",
+    "sort_order": 66,
+    "difficulty": "medium"
+  },
+  {
+    "id": 416,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 4,
+    "name_bn": "মানব শারীরতত্ত্ব: রক্ত ও সংবহন",
+    "name_en": "Blood & Circulation",
+    "sort_order": 67,
+    "difficulty": "hard"
+  },
+  {
+    "id": 417,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 5,
+    "name_bn": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন",
+    "name_en": "Breathing & Respiration",
+    "sort_order": 68,
+    "difficulty": "medium"
+  },
+  {
+    "id": 418,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 6,
+    "name_bn": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন",
+    "name_en": "Excretion & Elimination",
+    "sort_order": 69,
+    "difficulty": "medium"
+  },
+  {
+    "id": 419,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 7,
+    "name_bn": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা",
+    "name_en": "Locomotion & Movement",
+    "sort_order": 70,
+    "difficulty": "medium"
+  },
+  {
+    "id": 420,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 8,
+    "name_bn": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ",
+    "name_en": "Coordination & Control",
+    "sort_order": 71,
+    "difficulty": "hard"
+  },
+  {
+    "id": 421,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 9,
+    "name_bn": "মানব জীবনের ধারাবাহিকতা",
+    "name_en": "Continuity of Human Life",
+    "sort_order": 72,
+    "difficulty": "medium"
+  },
+  {
+    "id": 422,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 10,
+    "name_bn": "মানবদেহের প্রতিরক্ষা (ইমিউনিটি)",
+    "name_en": "Human Body Defense Immunity",
+    "sort_order": 73,
+    "difficulty": "medium"
+  },
+  {
+    "id": 423,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 11,
+    "name_bn": "জিনতত্ত্ব ও বিবর্তন",
+    "name_en": "Genetics & Evolution",
+    "sort_order": 74,
+    "difficulty": "hard"
+  },
+  {
+    "id": 424,
+    "paper_id": 8,
+    "subject_id": 4,
+    "chapter_number": 12,
+    "name_bn": "প্রাণীর আচরণ",
+    "name_en": "Animal Behavior",
+    "sort_order": 75,
+    "difficulty": "easy"
+  },
+  {
+    "id": 501,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 1,
+    "name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি: বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+    "name_en": "ICT Global & Bangladesh Context",
+    "sort_order": 76,
+    "difficulty": "easy"
+  },
+  {
+    "id": 502,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 2,
+    "name_bn": "কম্যুনিকেশন সিস্টেমস ও নেটওয়ার্কিং",
+    "name_en": "Communication Systems & Networking",
+    "sort_order": 77,
+    "difficulty": "medium"
+  },
+  {
+    "id": 503,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 3,
+    "name_bn": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+    "name_en": "Number System & Digital Devices",
+    "sort_order": 78,
+    "difficulty": "medium"
+  },
+  {
+    "id": 504,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 4,
+    "name_bn": "ওয়েব ডিজাইন পরিচিতি এবং HTML",
+    "name_en": "Web Design & HTML",
+    "sort_order": 79,
+    "difficulty": "medium"
+  },
+  {
+    "id": 505,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 5,
+    "name_bn": "প্রোগ্রামিং ভাষা (C Language)",
+    "name_en": "Programming Language (C)",
+    "sort_order": 80,
+    "difficulty": "hard"
+  },
+  {
+    "id": 506,
+    "paper_id": 9,
+    "subject_id": 5,
+    "chapter_number": 6,
+    "name_bn": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম (DBMS)",
+    "name_en": "Database Management System",
+    "sort_order": 81,
+    "difficulty": "medium"
+  },
+  {
+    "id": 601,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 1,
+    "name_bn": "Unit 1: People or Institutions Making History",
+    "name_en": "People or Institutions Making History",
+    "sort_order": 82,
+    "difficulty": "easy"
+  },
+  {
+    "id": 602,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 2,
+    "name_bn": "Unit 2: Traffic Education",
+    "name_en": "Traffic Education",
+    "sort_order": 83,
+    "difficulty": "easy"
+  },
+  {
+    "id": 603,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 3,
+    "name_bn": "Unit 3: Food Adulteration",
+    "name_en": "Food Adulteration",
+    "sort_order": 84,
+    "difficulty": "easy"
+  },
+  {
+    "id": 604,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 4,
+    "name_bn": "Unit 4: Human Relationships",
+    "name_en": "Human Relationships",
+    "sort_order": 85,
+    "difficulty": "easy"
+  },
+  {
+    "id": 605,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 5,
+    "name_bn": "Unit 5: Environment & Nature",
+    "name_en": "Environment & Nature",
+    "sort_order": 86,
+    "difficulty": "easy"
+  },
+  {
+    "id": 606,
+    "paper_id": 10,
+    "subject_id": 6,
+    "chapter_number": 6,
+    "name_bn": "Unit 6: Art & Music",
+    "name_en": "Art & Music",
+    "sort_order": 87,
+    "difficulty": "easy"
+  },
+  {
+    "id": 607,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 1,
+    "name_bn": "Grammar: Prepositions & Articles",
+    "name_en": "Prepositions & Articles",
+    "sort_order": 88,
+    "difficulty": "medium"
+  },
+  {
+    "id": 608,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 2,
+    "name_bn": "Grammar: Right Forms of Verbs",
+    "name_en": "Right Forms of Verbs",
+    "sort_order": 89,
+    "difficulty": "medium"
+  },
+  {
+    "id": 609,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 3,
+    "name_bn": "Grammar: Transformation of Sentences",
+    "name_en": "Transformation of Sentences",
+    "sort_order": 90,
+    "difficulty": "hard"
+  },
+  {
+    "id": 610,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 4,
+    "name_bn": "Grammar: Narration (Direct/Indirect)",
+    "name_en": "Narration",
+    "sort_order": 91,
+    "difficulty": "hard"
+  },
+  {
+    "id": 611,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 5,
+    "name_bn": "Grammar: Modifiers & Punctuation",
+    "name_en": "Modifiers & Punctuation",
+    "sort_order": 92,
+    "difficulty": "medium"
+  },
+  {
+    "id": 612,
+    "paper_id": 11,
+    "subject_id": 6,
+    "chapter_number": 6,
+    "name_bn": "Composition: Paragraphs, Letters & Essays",
+    "name_en": "Composition Writing",
+    "sort_order": 93,
+    "difficulty": "easy"
+  }
+]

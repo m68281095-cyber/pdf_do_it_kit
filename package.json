@@ -1,0 +1,12 @@
+{
+  "name": "pdf-do-it-kit",
+  "version": "1.0.0",
+  "description": "Standalone portable toolkit for extracting HSC exam questions from PDFs into Maktum staging batches.",
+  "type": "module",
+  "scripts": {
+    "verify": "node validator/verify.js",
+    "test": "node validator/verify.js sample_output/sample-phy-buet-2023"
+  },
+  "author": "Maktum Team",
+  "license": "MIT"
+}

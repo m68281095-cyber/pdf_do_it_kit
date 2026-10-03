@@ -1,0 +1,14 @@
+{
+  "title": "<ব্যাচের নাম — যেমন: এইচএসসি পদার্থবিজ্ঞান ১ম পত্র - বুয়েট ২০২৩>",
+  "destination": "all",
+  "rewrite_mode": "verbatim",
+  "pin_topic_id": null,
+  "default_source": {
+    "category": "engineering",
+    "university": "BUET",
+    "year": 2023,
+    "unit": "ক"
+  },
+  "status": "draft",
+  "notes": "ব্যাচ প্রস্তুতি ও প্রাথমিক পর্যালোচনা সম্পন্ন"
+}

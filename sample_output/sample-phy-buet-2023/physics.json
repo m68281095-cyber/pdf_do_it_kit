@@ -1,0 +1,120 @@
+{
+  "page": 1,
+  "items": [
+    {
+      "kind": "mcq",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "01",
+      "question": "একটি সরল দোলকের দোলনকাল $T$ দ্বিগুণ করতে হলে এর কার্যকরী দৈর্ঘ্য $L$ কত গুণ করতে হবে?",
+      "option_a": "২ গুণ",
+      "option_b": "৪ গুণ",
+      "option_c": "√২ গুণ",
+      "option_d": "১/২ গুণ",
+      "correct_answer": "B",
+      "explanation": "আমরা জানি, $T = 2\\pi \\sqrt{\\frac{L}{g}} \\implies T \\propto \\sqrt{L}$। সুতরাং দোলনকাল দ্বিগুণ ($2T$) করতে হলে কার্যকরী দৈর্ঘ্য $2^2 = 4$ গুণ করতে হবে।",
+      "topic_id": 208,
+      "topic_name": "পর্যাবৃত্ত গতি",
+      "subtopic_hint": "সরল দোলকের সূত্রাবলি",
+      "sub_subtopic_hint": "দোলনকাল ও কার্যকরী দৈর্ঘ্যের সম্পর্ক",
+      "source": {
+        "category": "engineering",
+        "university": "BUET",
+        "year": 2023,
+        "unit": "ক"
+      },
+      "figure_svg": null,
+      "figure_alt": null
+    },
+    {
+      "kind": "mcq",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "02",
+      "question": "নিচের চিত্রে প্রদর্শিত বর্তনীর তুল্যরোধ কত?",
+      "option_a": "$2\\ \\Omega$",
+      "option_b": "$4\\ \\Omega$",
+      "option_c": "$6\\ \\Omega$",
+      "option_d": "$8\\ \\Omega$",
+      "correct_answer": "A",
+      "explanation": "চিত্রে দুটি $4\\ \\Omega$ রোধ সমান্তরালে যুক্ত। তুল্যরোধ $R_p = \\frac{4 \\times 4}{4 + 4} = 2\\ \\Omega$।",
+      "topic_id": 213,
+      "topic_name": "চল তড়িৎ",
+      "subtopic_hint": "রোধের সমবায়",
+      "sub_subtopic_hint": "সমান্তরাল সমবায় ও তুল্যরোধ",
+      "source": {
+        "category": "engineering",
+        "university": "BUET",
+        "year": 2023,
+        "unit": "ক"
+      },
+      "figure_svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 120'><line x1='30' y1='60' x2='80' y2='60' stroke='#333' stroke-width='2'/><line x1='80' y1='30' x2='80' y2='90' stroke='#333' stroke-width='2'/><line x1='80' y1='30' x2='120' y2='30' stroke='#333' stroke-width='2'/><rect x='120' y='20' width='60' height='20' fill='#f0f0f0' stroke='#333' stroke-width='2'/><text x='150' y='35' font-size='12' text-anchor='middle'>4 Ω</text><line x1='180' y1='30' x2='220' y2='30' stroke='#333' stroke-width='2'/><line x1='80' y1='90' x2='120' y2='90' stroke='#333' stroke-width='2'/><rect x='120' y='80' width='60' height='20' fill='#f0f0f0' stroke='#333' stroke-width='2'/><text x='150' y='95' font-size='12' text-anchor='middle'>4 Ω</text><line x1='180' y1='90' x2='220' y2='90' stroke='#333' stroke-width='2'/><line x1='220' y1='30' x2='220' y2='90' stroke='#333' stroke-width='2'/><line x1='220' y1='60' x2='270' y2='60' stroke='#333' stroke-width='2'/><circle cx='30' cy='60' r='3' fill='#333'/><circle cx='270' cy='60' r='3' fill='#333'/><text x='20' y='65' font-size='14'>A</text><text x='280' y='65' font-size='14'>B</text></svg>",
+      "figure_alt": "[চিত্র: সমান্তরাল সংযোগে যুক্ত দুটি ৪ ওহম রোধের বর্তনী A ও B প্রান্তের মাঝে]"
+    },
+    {
+      "kind": "cq",
+      "cq_type": "direct",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "01(ক)",
+      "stimulus": "ফার্মির নীতিটি বিবৃত করো।",
+      "sub_questions": [],
+      "answers": [],
+      "topic_id": 201,
+      "topic_name": "ভৌতজগৎ ও পরিমাপ",
+      "subtopic_hint": "পরিমাপের একক ও নীতি",
+      "source": {
+        "category": "board",
+        "university": "ঢাকা বোর্ড",
+        "year": 2023
+      }
+    },
+    {
+      "kind": "cq",
+      "cq_type": "direct",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "01(খ)",
+      "stimulus": "কোনো কণার বেগ আলোর বেগের সমান হতে পারে না কেন? ব্যাখ্যা করো।",
+      "sub_questions": [],
+      "answers": [],
+      "topic_id": 218,
+      "topic_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+      "subtopic_hint": "ভর বৃদ্ধি ও আপেক্ষিকতা",
+      "source": {
+        "category": "board",
+        "university": "ঢাকা বোর্ড",
+        "year": 2023
+      }
+    },
+    {
+      "kind": "cq",
+      "cq_type": "creative",
+      "subject_id": 2,
+      "subject_name": "পদার্থবিজ্ঞান",
+      "question_number": "01(গ-ঘ)",
+      "stimulus": "একটি সরল ছন্দিত স্পন্দনে স্পন্দিত কণার সরণের সমীকরণ $x = 0.05 \\sin(20\\pi t + \\frac{\\pi}{4})$ মিটার। কণাটির ভর $0.2\\text{ kg}$।",
+      "sub_questions": [
+        {
+          "label": "গ",
+          "text": "কণাটির সর্বোচ্চ গতিশক্তি নির্ণয় করো।",
+          "marks": 3
+        },
+        {
+          "label": "ঘ",
+          "text": "উক্ত কণাটি শক্তি সংরক্ষণশীলতা নীতি মেনে চলে কিনা — গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।",
+          "marks": 4
+        }
+      ],
+      "answers": [],
+      "topic_id": 208,
+      "topic_name": "পর্যাবৃত্ত গতি",
+      "subtopic_hint": "সরল ছন্দিত স্পন্দন ও শক্তি",
+      "source": {
+        "category": "board",
+        "university": "ঢাকা বোর্ড",
+        "year": 2023
+      }
+    }
+  ]
+}

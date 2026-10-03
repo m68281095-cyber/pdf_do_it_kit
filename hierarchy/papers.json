@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "subject_id": 1,
+    "paper_number": 1,
+    "name_bn": "উচ্চতর গণিত ১ম পত্র",
+    "name_en": "Higher Math 1st Paper"
+  },
+  {
+    "id": 2,
+    "subject_id": 1,
+    "paper_number": 2,
+    "name_bn": "উচ্চতর গণিত ২য় পত্র",
+    "name_en": "Higher Math 2nd Paper"
+  },
+  {
+    "id": 3,
+    "subject_id": 2,
+    "paper_number": 1,
+    "name_bn": "পদার্থবিজ্ঞান ১ম পত্র",
+    "name_en": "Physics 1st Paper"
+  },
+  {
+    "id": 4,
+    "subject_id": 2,
+    "paper_number": 2,
+    "name_bn": "পদার্থবিজ্ঞান ২য় পত্র",
+    "name_en": "Physics 2nd Paper"
+  },
+  {
+    "id": 5,
+    "subject_id": 3,
+    "paper_number": 1,
+    "name_bn": "রসায়ন ১ম পত্র",
+    "name_en": "Chemistry 1st Paper"
+  },
+  {
+    "id": 6,
+    "subject_id": 3,
+    "paper_number": 2,
+    "name_bn": "রসায়ন ২য় পত্র",
+    "name_en": "Chemistry 2nd Paper"
+  },
+  {
+    "id": 7,
+    "subject_id": 4,
+    "paper_number": 1,
+    "name_bn": "জীববিজ্ঞান ১ম পত্র (উদ্ভিদবিজ্ঞান)",
+    "name_en": "Botany"
+  },
+  {
+    "id": 8,
+    "subject_id": 4,
+    "paper_number": 2,
+    "name_bn": "জীববিজ্ঞান ২য় পত্র (প্রাণীবিজ্ঞান)",
+    "name_en": "Zoology"
+  },
+  {
+    "id": 9,
+    "subject_id": 5,
+    "paper_number": 1,
+    "name_bn": "আইসিটি",
+    "name_en": "ICT"
+  },
+  {
+    "id": 10,
+    "subject_id": 6,
+    "paper_number": 1,
+    "name_bn": "ইংরেজি ১ম পত্র",
+    "name_en": "English 1st Paper"
+  },
+  {
+    "id": 11,
+    "subject_id": 6,
+    "paper_number": 2,
+    "name_bn": "ইংরেজি ২য় পত্র",
+    "name_en": "English 2nd Paper"
+  },
+  {
+    "id": 12,
+    "subject_id": 7,
+    "paper_number": 1,
+    "name_bn": "বাংলা ১ম পত্র",
+    "name_en": "Bangla 1st Paper"
+  },
+  {
+    "id": 13,
+    "subject_id": 7,
+    "paper_number": 2,
+    "name_bn": "বাংলা ২য় পত্র",
+    "name_en": "Bangla 2nd Paper"
+  },
+  {
+    "id": 14,
+    "subject_id": 8,
+    "paper_number": 1,
+    "name_bn": "সাধারণ জ্ঞান",
+    "name_en": "General Knowledge"
+  }
+]
